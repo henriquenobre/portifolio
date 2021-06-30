@@ -132,10 +132,4 @@ p{
         height: 139px;
         width: 300px;
     }    
-    
-    nav a{
-        display: flex;
-        flex-direction: row;
-        padding: 0;
-    }
 }
