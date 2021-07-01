@@ -106,7 +106,7 @@ p{
 
 .link a{
     height: 30px;
-    width: 110px;
+    width: 75px;
     margin-left: 2rem;
     color: white;
     text-decoration: none;
@@ -122,12 +122,13 @@ p{
     background-color: #3d3d3d;
 }
 
-@media (max-width: 665px){
+@media (max-width: 1150px){
     .container{
         display: flex;
         flex-direction: column;
     }
-
+}    
+@media (max-width: 665px){
     .container img{
         height: 139px;
         width: 300px;
